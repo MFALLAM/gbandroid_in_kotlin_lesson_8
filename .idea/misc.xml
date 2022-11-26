@@ -1,5 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Allam/Desktop/GeekBrains/second_quarter/android_in_kotlin/lesson_4/app/src/main/res/layout/fragment_cities_list.xml" value="0.1" />
+        <entry key="..\:/Users/Allam/Desktop/GeekBrains/second_quarter/android_in_kotlin/lesson_4/app/src/main/res/layout/fragment_cities_list_recycler_item.xml" value="0.1" />
+        <entry key="..\:/Users/Allam/Desktop/GeekBrains/second_quarter/android_in_kotlin/lesson_4/app/src/main/res/layout/fragment_history_detail.xml" value="0.35260416666666666" />
+        <entry key="..\:/Users/Allam/Desktop/GeekBrains/second_quarter/android_in_kotlin/lesson_4/app/src/main/res/layout/fragment_history_list.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Allam/Desktop/GeekBrains/second_quarter/android_in_kotlin/lesson_4/app/src/main/res/layout/fragment_weather_detail.xml" value="0.1" />
+        <entry key="..\:/Users/Allam/Desktop/GeekBrains/second_quarter/android_in_kotlin/lesson_4/app/src/main/res/layout/weather_history_list_recycler_item.xml" value="0.35260416666666666" />
+      </map>
+    </option>
+  </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>
